@@ -1,0 +1,106 @@
+
+[
+    {
+        "Province": "Alberta",
+        "Initials": "AB",
+        "Capital" : "Edmonton",
+        "Population": 4695290,
+        "Premier": "Danielle Smith"
+    },
+
+    {
+        "Province": "British Columbia",
+        "Initials": "BC",
+        "Capital" : "Victoria",
+        "Population": 5519013,
+        "Premier": "David Eby"
+    },
+
+    {
+        "Province": "Manitoba",
+        "Initials": "MB",
+        "Capital" : "Winnipeg",
+        "Population": 1454902,
+        "Premier": "Wab Kinew"
+    },
+
+    {
+        "Province": "New Brunswick",
+        "Initials": "NB",
+        "Capital" : "Fredericton",
+        "Population": 834691,
+        "Premier": "Blaine Higgs"
+    },
+
+    {
+        "Province": "Newfoundland and Labrador",
+        "Initials": "NL",
+        "Capital" : "St. John's",
+        "Population": 538605,
+        "Premier": "Andrew Furey"
+    },
+
+    {
+        "Province": "Nova Scotia",
+        "Initials": "NS",
+        "Capital" : "Halifax",
+        "Population": 1058694,
+        "Premier": "Tim Houston"
+    },
+
+    {   
+        "Province": "Ontario",
+        "Initials": "ON",
+        "Capital" : "Toronto",
+        "Population": 15608369,
+        "Premier": "Doug Ford"
+    },
+
+    {
+        "Province": "Prince Edward Island",
+        "Initials": "PE",
+        "Capital" : "Charlottetown", 
+        "Population": 173787, 
+        "Premier": "Dennis King"
+    },
+
+    {
+        "Province": "Quebec",
+        "Initials": "QC",
+        "Capital" : "Quebec City",
+        "Population": 8874683,
+        "Premier": "François Legault"
+    },
+
+    {
+        "Province": "Saskatchewan",
+        "Initials": "SK",
+        "Capital" : "Regina",
+        "Population": 1209107,
+        "Premier": "Scott Moe"
+    },
+
+    {
+        "Province": "Northwest Territories",
+        "Initials": "NT",
+        "Capital" : "Yellowknife",
+        "Population": 44972,
+        "Premier": "R. J. Simpson"
+    },
+
+    {
+        "Province": "Nunavut",
+        "Initials": "NU",
+        "Capital" : "Iqaluit",
+        "Population": 40673,
+        "Premier": "P. J. Akeeagok"
+    },
+
+    {
+        "Province": "Yukon",
+        "Initials": "YT",
+        "Capital" : "Whitehorse",
+        "Population": 44975,
+        "Premier": "Ranji Pillai"
+    }
+]
